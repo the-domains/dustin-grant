@@ -1,0 +1,28 @@
+name: Dustin Grant
+favicon: null
+layout_spectrum: 0.6993672389071435
+typography_spectrum: 0.47744810627773404
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5710089467465878
+  lightness: 0.24594828975386918
+  saturation: 0.47624545521102846
+  rhythmicContrast: 0.7120975805446506
+purpose: []
