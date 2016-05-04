@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Dustin Grant]]></title>
         <description><![CDATA[Dustin Grant]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.dustindgrant.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 17:17:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 May 2016 22:44:43 GMT</lastBuildDate>
+        <atom:link href="http://www.dustindgrant.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71fad30b-9008-4d81-a108-e257173c7ff1.png">]]></description>
-            <link>undefinedassociate-producer/index.html</link>
+            <link>http://www.dustindgrant.com/associate-producer/index.html</link>
             <guid isPermaLink="false">b94dffca-3305-4bec-8f0d-bc3e8e7b2ca8</guid>
-            <pubDate>Wed, 04 May 2016 17:17:30 GMT</pubDate>
+            <pubDate>Wed, 04 May 2016 22:44:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
