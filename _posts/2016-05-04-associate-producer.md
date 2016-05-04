@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Associate Producer
-datePublished: '2016-05-04T17:17:30.136Z'
-dateModified: '2016-05-04T17:17:18.380Z'
+datePublished: '2016-05-04T22:44:42.181Z'
+dateModified: '2016-05-04T22:44:00.091Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-04-associate-producer.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-04-associate-producer.md
 url: associate-producer/index.html
 _type: Article
 
