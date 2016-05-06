@@ -4,8 +4,15 @@
         <description><![CDATA[Dustin Grant]]></description>
         <link>http://www.dustindgrant.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 02:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 02:41:14 GMT</lastBuildDate>
         <atom:link href="http://www.dustindgrant.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71fad30b-9008-4d81-a108-e257173c7ff1.png">]]></description>
+            <link>http://www.dustindgrant.com/associate-producer/index.html</link>
+            <guid isPermaLink="false">b94dffca-3305-4bec-8f0d-bc3e8e7b2ca8</guid>
+            <pubDate>Fri, 06 May 2016 02:41:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71ae5266-7ee8-4410-a21e-4b9520ded665.png">]]></description>
@@ -19,13 +26,6 @@
             <link>http://www.dustindgrant.com/producer/index.html</link>
             <guid isPermaLink="false">803da4e3-4ce7-4513-ada5-ff43dc99f84d</guid>
             <pubDate>Fri, 06 May 2016 02:39:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71fad30b-9008-4d81-a108-e257173c7ff1.png">]]></description>
-            <link>http://www.dustindgrant.com/associate-producer/index.html</link>
-            <guid isPermaLink="false">b94dffca-3305-4bec-8f0d-bc3e8e7b2ca8</guid>
-            <pubDate>Wed, 04 May 2016 22:44:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
